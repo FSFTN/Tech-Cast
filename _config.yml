@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Tech Casts 
-tagline:          'Get to know about Tech Casts by FSFTN'
-description:      'Tech Casts is an initiative by FSFTN to make tutorial videos about various computer languages, technologies and tools to distribute to the world as Free and Open knowledge.'
+title: Techcasts
+tagline: 'A FSFTN initiative'
+description: 'Techcasts will be a platform for FSFTN contributors to make technical videos and release them into the Free and Open knowledge domain.'
 url:              http://fsftn.github.io/tech-casts/
 baseurl:          http://fsftn.github.io/tech-casts/
 
