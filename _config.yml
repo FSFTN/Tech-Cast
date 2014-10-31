@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Tech Casts Blog -- FSFTN
 locale: en_US
-description: Describe your website here.
+description: Get updates about Tech Casts from FSFTN here.
 logo: site-logo.png
 search: true
 url: 
