@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://fsftn.github.io/tech-casts/sitemap.xml 

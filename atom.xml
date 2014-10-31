@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://fsftn.github.io/tech-casts/atom.xml" rel="self"/>
+  <link href="http://fsftn.github.io/tech-casts/"/>
+  <updated>2014-10-31T17:35:19+05:30</updated>
+  <id>http://fsftn.github.io/tech-casts/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
