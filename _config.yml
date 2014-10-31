@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Tech Casts -- Blog -- FSFTN
+title:            Tech Casts 
 tagline:          'Get to know about Tech Casts by FSFTN'
 description:      'Tech Casts is an initiative by FSFTN to make tutorial videos about various computer languages, technologies and tools to distribute to the world as Free and Open knowledge.'
 url:              http://fsftn.github.io/tech-casts/
